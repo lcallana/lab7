@@ -19,7 +19,7 @@ public class InsertionSort {
 				if (tempNumber2 < tempNumber) {
 					break;
 				} else {
-					output[tempIndex] = tempNumber;
+					output[tempIndex] = tempNumber2;
 				}
 				tempIndex -= 1;
 			}
